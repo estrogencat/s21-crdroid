@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="exy2100" fetch="https://github.com/exy2100" />
+  <remote name="lineage" fetch="https://github.com/LineageOS" />
+
+  <project name="android_device_samsung_o1s" path="device/samsung/o1s" remote="exy2100" revision="lineage-23.2" />
+  <project name="android_device_samsung_universal2100-common" path="device/samsung/universal2100-common" remote="exy2100" revision="lineage-23.2" />
+  <project name="proprietary_vendor_samsung_o1s" path="vendor/samsung/o1s" remote="exy2100" revision="lineage-23.2" />
+  <project name="proprietary_vendor_samsung_universal2100-common" path="vendor/samsung/universal2100-common" remote="exy2100" revision="lineage-23.2" />
+
+  <project name="android_kernel_samsung_universal2100" path="kernel/samsung/universal2100" remote="exy2100" revision="lineage-23.2" />
+
+  <project name="android_hardware_samsung" path="hardware/samsung" remote="exy2100" revision="lineage-23.2" />
+  <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="exy2100" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" remote="lineage" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="exy2100" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="lineage" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="lineage" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="lineage" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" remote="lineage" revision="lineage-23.2" />
+  <project name="android_hardware_samsung_slsi-linaro_codec2" path="hardware/samsung_slsi-linaro/codec2" remote="lineage" revision="lineage-23.2" />
+</manifest>
+
