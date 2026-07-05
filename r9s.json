@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "OffsetPikachu55",
+      "maintainer_url": "https://xdaforums.com/m/offsetpikachu55.11142215/",
+      "oem": "Samsung",
+      "device": "Galaxy S21 FE",
+      "filename": "crDroidAndroid-16.0-20260705-r9s-v12.11.zip",
+      "download": "https://sourceforge.net/projects/hazel-crdroid/files/crdroid-12/r9s/crDroidAndroid-16.0-20260705-r9s-v12.11.zip/download",
+      "timestamp": 0,
+      "md5": "Placeholder",
+      "sha256": "Placeholder",
+      "size": 67,
+      "version": "12.11",
+      "buildtype": "userdebug",
+      "forum": "https://xdaforums.com/t/placeholder.676767/",
+      "github": "https://github.com/estrogencat",
+      "firmware": "",
+      "paypal": ""
+    }
+  ]
+}
